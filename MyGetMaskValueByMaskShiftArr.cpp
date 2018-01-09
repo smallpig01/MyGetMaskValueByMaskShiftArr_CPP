@@ -1,8 +1,8 @@
 ﻿/***********************************************************\
- 20180106 : smallpig01
  利用 Ptr查表法, 快速取出 Mask 位置上的 ImagePixelValue 方法
  可使用 compileonline 測試
  http://www.compileonline.com/compile_cpp_online.php
+ Last Update : 20180109 by smallpig01
  
  Main::ImageWH 設定影像資料寬高
  Main::MaskWH  設定Mask寬高
